@@ -1,0 +1,10 @@
+1. 원하는 지점에서 git-bash를 사용해 git clone
+   git clone 경로
+   
+2. git 과 github 연경
+   git remote add 이름(origin, pair 등) 경로
+   
+3. local에서 편집
+   
+4. git add 파일 -> git commit -m '메모할 내용' -> git push origin main(master)
+   이렇게 하면 github에 반영되어있음
